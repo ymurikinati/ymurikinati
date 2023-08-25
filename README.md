@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ymurikinati.github.io
+
 
 <h1 align="center">Hi all, I'm Yogananda Reddy</h1>
 
