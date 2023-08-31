@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi all, I'm Yogananda Reddy</h1>
 
-<h3 align="center">Data Analyst, Python, Excel, SQL, Power BI, Tableau & Cyber Security from Arizona, United States.</h3>
+<h3 align="center">Welcome to my Portfolio.I am excited to have you here!.</h3>
 
-<div align="center">
-      <img src="https://komarev.com/ghpvc/?username=1hanzla100&label=Profile%20views&color=0e75b6&style=flat" alt="1hanzla100" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/1hanzla100?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/1hanzla100?style=social">
-</div>
+## Resume
+My Resume in [pdf](https://drive.google.com/file/d/1AqHmHi-SUXEUprpX6Cso9eXtgWKlWoeN/view?usp=sharing) 
+
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
