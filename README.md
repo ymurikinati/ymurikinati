@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">Welcome to my Portfolio.I am excited to have you here!.</h3>
 
-## Resume
-My Resume in [pdf](https://drive.google.com/file/d/1AqHmHi-SUXEUprpX6Cso9eXtgWKlWoeN/view?usp=sharing) 
 
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
@@ -31,6 +29,7 @@ My Resume in [pdf](https://drive.google.com/file/d/1AqHmHi-SUXEUprpX6Cso9eXtgWKl
 - 👨‍💻 All of my projects are available at [https://github.com/ymurikinati](https://github.com/ymurikinati)
 - 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau and Machine Learning**
 - 📄 Know about my experiences [https://www.linkedin.com/in/yogananda-reddy-murikinati/](https://www.linkedin.com/in/yogananda-reddy-murikinati/)
+- 📑 Resume [PDF](https://drive.google.com/file/d/1AqHmHi-SUXEUprpX6Cso9eXtgWKlWoeN/view?usp=sharing)
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
@@ -63,21 +62,21 @@ My Resume in [pdf](https://drive.google.com/file/d/1AqHmHi-SUXEUprpX6Cso9eXtgWKl
   <img src="https://img.shields.io/badge/Cyber Security-3776AB?style=for-the-badge&logo=Cyber Security&logoColor=orange" />
 </div>
 
-<h2 align="center"> My Projects<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
+<h2 align="center"> My Projects 📚<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Data Professional Survey Breakdown
+### Data Professional Survey Breakdown 📊
 **Code:**[`Data Professional Survey.pbix`](https://github.com/ymurikinati/Data-Professional-Survey-Breakdown)
 
 **Description:** The Data Professional Survey Breakdown Dashboard project showcases insightful perspectives of the data professional realm, garnered from scrutinizing a survey encompassing 630 respondents. By adroitly harnessing Excel and Power Query Editor, raw data undergoes meticulous refinement for rigorous analysis. Through a palette of visualizations, pivotal trends surface, intertwined with key takeaways, painting a vivid portrait of the data professional landscape.
 
 This project showcases proficiency in a spectrum of skills: data analysis, data cleaning, and data visualization; wielding Excel and spreadsheet expertise; harnessing Power BI for potent visual storytelling; employing statistical analysis and descriptive statistics for rigorous scrutiny; and exercising problem-solving acumen to distill actionable insights.
 
-### Road Accident Analysis Dashboard
+### Road Accident Analysis Dashboard 📊🚦
 
 **Code:**[`Road Accident Analysis.pbix`](https://github.com/ymurikinati/Road-Accident-Dashboard-Analysis)
 
-**Description:** In the Road Accident Dashboard Analysis project, I have developed an all-encompassing dashboard that thoroughly examines road accident data pertaining to the years 2021 and 2022. The central emphasis is placed on pivotal key performance indicators (KPIs), notably encompassing total casualties and overall accident counts for the present year. This analysis is bolstered by Year-over-Year (YoY) growth comparisons, offering a comprehensive view of progress.
+**Description:** In the Road Accident🚗 Dashboard Analysis project, I have developed an all-encompassing dashboard that thoroughly examines road accident data pertaining to the years 2021 and 2022. The central emphasis is placed on pivotal key performance indicators (KPIs), notably encompassing total casualties and overall accident counts for the present year. This analysis is bolstered by Year-over-Year (YoY) growth comparisons, offering a comprehensive view of progress.
 Moreover, the dashboard delves into KPIs that dissect total casualties based on accident severity and vehicle type for the ongoing year. This intricate breakdown contributes to a holistic understanding of the data and its implications.
 
 The crux of the dashboard lies in its ability to provide invaluable insights into monthly casualty trends, contrasting the current year with its preceding counterpart. These insights unveil the ebb and flow of casualties over time and facilitate a robust understanding of the prevailing dynamics.
@@ -86,13 +85,13 @@ The dashboard goes beyond mere figures by examining casualties categorized by ro
 
 Employing the dynamic capabilities of Power BI, I've created an interactive and user-friendly interface that empowers stakeholders to engage with the data using visually captivating visualizations and effective filters. This meticulously designed dashboard facilitates effortless exploration of data, rendering complex information digestible and actionable. By encapsulating the data in an intelligible and concise manner, the dashboard serves as a potent tool to drive informed decision-making and foster road safety enhancements.
 
-### HR-Analytics-Dashboard using Power BI
+### HR-Analytics-Dashboard 📊 using Power BI
 
 **Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/HR-Analytics-Dashboard)
 
 **Description:**In this project, I've successfully crafted an HR Analytics Dashboard that offers a comprehensive overview of key employee insights. It covers essential aspects such as attrition rates, business travel trends, employee demographics, and more. The process involved data cleaning, processing, analysis, and visualization, culminating in an interactive dashboard with filtering capabilities. The dashboard presents Month-to-Date, Quarter-to-Date, and Year-to-Date employee insights, providing valuable information on various categories like age, gender, job roles, and satisfaction levels. This tool empowers us to make informed decisions to enhance employee satisfaction, retention, and overall productivity by leveraging insightful data-driven observations.
 
-### Road-Accident-Dashboard-Using-Excel
+### Road-Accident-Dashboard 🚦📊-Using-Excel
 
 **Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/Road-Accident-Dashboard-Using-Excel)
 
