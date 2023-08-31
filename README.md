@@ -107,6 +107,18 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 **Description:**I used Tableau to develop an intelligent HR Analytics Dashboard, leveraging HR data to reveal useful insights. The dashboard captures crucial elements of staff dynamics through data cleansing, analysis, and display. It reveals attrition rates, business travel patterns, demographics, and more, allowing for educated judgments. The dashboard displays attrition across segments, age groupings, genders, and departments. It also addresses employee happiness, education, work positions, and other topics. We can use this technology to improve employee happiness, retention, and productivity by applying practical data-driven insights.
 
 
+## Certificates
 
-
+- [Programming for Everybody (Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/M8QAK9QRTU96) (Feb 2023) (Coursera)
+- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/GP2VWV7SL9HG) (Feb 2023) (Coursera)
+- [Learning Data Visualization](https://www.linkedin.com/learning/certificates/8c669ce6099c0e0f386e1286557c44cff3026fa4cf47b0e0092ec936b8c1690c) (Mar 2023) (LinkedIn)
+- [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/LME6QGQ6MXG3)(Mar 2023) (Coursera)
+- [Hands-On Introduction: SQL](https://www.linkedin.com/learning/certificates/5983e5aed450f2341b0e12a4a690013e33d378ad97cbd971830d02f61e750c29) (Mar 2023) (LinkeIn)
+- [Machine Learning with Python: Foundations](https://www.linkedin.com/learning/certificates/bd6a5bd62ff45ba877638dafb70b6049147f400e60c50b359777f5858aaba3bd) (Apr 2023) (LinkedIn)
+- [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/certificate/E5XZ6W47BHW4) (Apr 2023) (Coursera)
+- [ Introduction to Python](https://courses.analyticsvidhya.com/certificates/ctkpv9irsd) (Apr 2023) (Coursera)
+- [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/GYAD75ZQN6BF) (Jun 2023) (Coursera)
+- [Google Data Analytics Certificate](https://www.credly.com/badges/2800df18-f839-4c14-bf66-898544bc92fb/linked_in_profile) (Jun 2023) (Google)
+- [ Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-92737c2c-e8e9-42d3-9ab2-7658615b14a5/) (Jun 2023) (Udemy)
+- [Python for Data Science](https://www.credly.com/badges/8e977bb6-48be-40b5-af45-8309e940c4ad/linked_in_profile) (Jul 2023) (IBM)
 
