@@ -57,11 +57,12 @@ Here are some ideas to get you started:
 <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://logowik.com/content/uploads/images/microsoft-excel-new.jpg" />
-  <img src="https://pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" />
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAA/1BMVEX///8AQoEAKnYAKHUAN3wALXf3+PoAOHwAL3gAPn8AQIAAMnoANXu+xtUAOn0wh5qYpr7a3+f/cxFKW47/iQCKmrb/kBBwhKj/onb/dh3/cQXpGzL/j1T/okz/jgD+t5x6ja7nAA3oABeirsT0oKPoACP/plb/qmH63N1Bh50ofpa0vc9CVIpFZJRWZZQAJHTO3uOwy9Jil6rM0t5WmKfh6+5heaEuVYuvucx1qLX/gQDL3OHp7/IAHHGIkbBKaJYeTIb+4tT/nD0AdI7/tnr/lSX/1ML/2swxSYQAFW//kFj/pXukxMyCrrr/tpb+18r/gTr1q67rQlAAAGvvd38wcZh5AAAHHElEQVR4nO2ai1rbNgBG41t8jZOQhgzo1oDHNghJ2hmcdJjFXbcOtrZb177/s0yKr5HkYA+WQPuf7wPLtizJx5IsyWk0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBz4uJi2yV4RJyebrsEj4h2e9sleERAVg0gqwaQVc6rV6/SYPiC0m4vN2F69AKvx4yfnvySBi9O24Tzc/r/9Hl69PXp6+2U7AHyZPfrNNi8fE5ot+n/y2Z69PQEY4mUgqwYts+CrBzIqgFk1QCyasDLYtw8MFnNRRAE28qckxWGq/sPTdbUdKebzvS7hN3d35LQr6sRfkw4OTlJg5suo4imLEnapjN98k3M7u5uEmJq2AnPpssoYiuyvk8gNSsJMTXrfCuyBqbkjNZF2IqsFK7PYqnRZwWDwV373oFu2V+GrCvXvbpjcQbuY6pZb968+X3lQA1ZiiQpdyzO45L1dH//q5UDkJXDydrZgawyIKsG1WV1u91b0vpcZZ23k9W9wkrpEk5WtlJ6ffbzLYl+9rIKa/BLOFmXl34cOJvcg6zWcBHNgk44upGvhoLzRJbq+f1gHC2GviiBNbL8/mI8Hnih+CxlPljMZoHXGF7JNy32nOd1sqbTITv5qUwWCycr4x5k+ZKhm5ZpqlpkSXpfEIPIklRbN0ksXYsEukpl+ZHmmqbpOtNhSe6eYbs0YceOJMlmZc1sdZoea96o6k1+aiuyvKklEaz4r1RWGkcypx4XoUxWZ2rSy+h1aiS8t0Cz0hiSQNbYzI/RTAp3Uirrj52dP8Vnziaiu6P9foohSUZhl43ZmpJCupoWaZourZFlObIbaQa9+SlXt0pkeQpNUbNVWSV5zAQpD20aQ9Yj2XCry7oghOft58ttGvX9/k7MHiEJ7j9LToYtn9CbDOiGzeRGM1LoE8t2NK6S0fNGQB2GfbtcljWe0wfZDUgcS60mK6TPQRmS22l2NJLLnIvhU5tyn96wH6hVZTWLXwffplGf7e9xZLL8sx5hMpnQzTWTiSaV4DIROw4pYipo5JTKUtO216cXsA1RLGtIqqqS3KrnkLbGxViQiqqk9TQwq8p6STlvv3z37t3b7FPq+/2EpaWETNb1GYHIohtW1lTNoIryPYOJSPp0c5zuVJHViMzCFYX74GVpxfcFqcEa2wc0lWJVriwr5pz5LPHXs4S/9/aepuHVGXVJn9XJIbZUL9/li5uXsJKsucO/MYSyfOJHnfutJf7Mkhy2HbZIm5azTqe2rP/Qwd/pbdgl7VXLiutVkbW8hKkjQlkkNTriSBC9aWnblLK9+5L1vw0d6LsyP+upYlnDoixaZqOKLFqnLbeAPWBiEFnmItsTyVo8Pll9nZFVqWYRWdZsWITpA5ay8u5PJKt4LNTEsg4PDleu4WRNzeTL01nvPpthmayVZmgUO5oYcTNUJVM0tsqh3Z+Z7Y3rybp8kck6WrmGl5Ve1hN38AXWj+DJ2bzf7VSRRRxU7+BZq3yM/FFVkcW+zCm3ylKqrySsl0VKaEXpDmlut8syyWCD/QIiHjrIluQO15aNDC7cLC0qi50bBIWcSZW2bEEim5PVIo/LTTvZKrLGZFois/dUPiiVC0s7/MobjWGkOZLBhcEmTEqU9WokbIma9eZkNWZkEO1K824Ydn3ybPMaVCyyS95aJErX90y3IDdDLKtpkPGCFvikb2letIYG+zIkh+lMw5ktc29ZAlndaTbB8DXB1IHCyWI/WNyfrFA16SzZ0DTNNqVSWZJJoxiqRdVy7+ySiXSXLmiYtqwosmbrOi+r4dMYlqPR3EmIk9UYkHGrE/XnnTFxZUaiO2BlcdyfrEY4M6x87mgIZdl5DEsb8+ObsiWarqrnSasCWQ0/no8laU/5lhqQns/UHfJILVu8ynOfsqamecsPXEYzxVZVXVdtTVmIlvS7gaY5y6mlrcxE68uli3/NIUmaLv/pjhKxr7qYvk7S1pe5O4HARouUznEcWzOZYdq3CccHxx/i0IfVCMkkj7y+s/mesAQFovE4ui3OxajT6fc7o/KPH91Rx/O8zkj8i/J1a/CtTjAeL4bz8t+idz2Sed9rlQ0zwtbcm/NlOzqOOTg4iANH/6xGkJxsKSEOOCabxjbYyqeww6MYIisOHDKyXEVeQtfMliiikcfG2YqsHxKODo7TIFOqmIYsyVn4AdD8KMsft5U528H719erL9UaHfxG2OZT42T1eg9b1jaBrBpAVg0gqwZFWbTrJLJaK50oZOUcHmcrpX36pas3mfToNlsVvdLv+jvRz4dPnz6lwX7yLZX+z2UNhqJZ6RdPSH+gMOr15nS7dpEWxHAdPCgHsmoAWTWArBpwE2lQTjMMH8RSDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAevwLT1PTGoI/NFgAAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/EXCEL-3776AB?style=for-the-badge&logo=EXCEL&logoColor=Green" />
+  <img src="https://img.shields.io/badge/Power BI-3776AB?style=for-the-badge&logo=PowerBI&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=Tableau&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Machine Learning-3776AB?style=for-the-badge&logo=Machine Learning&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Cyber Security-3776AB?style=for-the-badge&logo=Cyber Security&logoColor=orange" />
 </div>
 
 <h2 align="center"> My Projects<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
@@ -76,8 +77,36 @@ This project showcases proficiency in a spectrum of skills: data analysis, data 
 
 ### Road Accident Analysis Dashboard
 
-**Code:** ['Road Accident Analysis.pbix'](https://github.com/ymurikinati/Road-Accident-Dashboard-Analysis)
+**Code:**[`Road Accident Analysis.pbix`](https://github.com/ymurikinati/Road-Accident-Dashboard-Analysis)
 
-**Description:** 
+**Description:** In the Road Accident Dashboard Analysis project, I have developed an all-encompassing dashboard that thoroughly examines road accident data pertaining to the years 2021 and 2022. The central emphasis is placed on pivotal key performance indicators (KPIs), notably encompassing total casualties and overall accident counts for the present year. This analysis is bolstered by Year-over-Year (YoY) growth comparisons, offering a comprehensive view of progress.
+Moreover, the dashboard delves into KPIs that dissect total casualties based on accident severity and vehicle type for the ongoing year. This intricate breakdown contributes to a holistic understanding of the data and its implications.
+
+The crux of the dashboard lies in its ability to provide invaluable insights into monthly casualty trends, contrasting the current year with its preceding counterpart. These insights unveil the ebb and flow of casualties over time and facilitate a robust understanding of the prevailing dynamics.
+
+The dashboard goes beyond mere figures by examining casualties categorized by road type, geographical location, and the time of occurrence—be it during daylight or nighttime. This thorough analysis is coupled with a breakdown of total casualties and accidents based on their location, further enriching the insights presented.
+
+Employing the dynamic capabilities of Power BI, I've created an interactive and user-friendly interface that empowers stakeholders to engage with the data using visually captivating visualizations and effective filters. This meticulously designed dashboard facilitates effortless exploration of data, rendering complex information digestible and actionable. By encapsulating the data in an intelligible and concise manner, the dashboard serves as a potent tool to drive informed decision-making and foster road safety enhancements.
+
+### HR-Analytics-Dashboard using Power BI
+
+**Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/HR-Analytics-Dashboard)
+
+**Description:**In this project, I've successfully crafted an HR Analytics Dashboard that offers a comprehensive overview of key employee insights. It covers essential aspects such as attrition rates, business travel trends, employee demographics, and more. The process involved data cleaning, processing, analysis, and visualization, culminating in an interactive dashboard with filtering capabilities. The dashboard presents Month-to-Date, Quarter-to-Date, and Year-to-Date employee insights, providing valuable information on various categories like age, gender, job roles, and satisfaction levels. This tool empowers us to make informed decisions to enhance employee satisfaction, retention, and overall productivity by leveraging insightful data-driven observations.
+
+### Road-Accident-Dashboard-Using-Excel
+
+**Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/Road-Accident-Dashboard-Using-Excel)
+
+**Description:**I've created an encompassing Excel dashboard that analyzes road accident data for 2021 and 2022. It highlights key indicators like casualties and accidents, comparing YoY growth. The dashboard dissects casualties by severity, vehicle type, and location, offering valuable insights. With user-friendly excel features, stakeholders can interact with visualized data for informed decision-making and road safety enhancements.
+
+### HR-ANALYTICS-DASHBOARD-using-Tableau 
+
+**Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/HR-ANALYTICS-DASHBOARD-using-Tableau)
+
+**Description:**I used Tableau to develop an intelligent HR Analytics Dashboard, leveraging HR data to reveal useful insights. The dashboard captures crucial elements of staff dynamics through data cleansing, analysis, and display. It reveals attrition rates, business travel patterns, demographics, and more, allowing for educated judgments. The dashboard displays attrition across segments, age groupings, genders, and departments. It also addresses employee happiness, education, work positions, and other topics. We can use this technology to improve employee happiness, retention, and productivity by applying practical data-driven insights.
+
+
+
 
 
