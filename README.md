@@ -46,7 +46,7 @@ Here are some ideas to get you started:
       <a href="mailto:ymurikin@asu.edu">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
-      <a href="https://www.instagram.com/1hanzla100/">
+      <a href="https://www.datascienceportfol.io/ymurikinati">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
 </div>
