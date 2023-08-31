@@ -106,8 +106,8 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 
 ## Certificates
 
-- [Programming for Everybody (Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/M8QAK9QRTU96) (Feb 2023) (Coursera)
-- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/GP2VWV7SL9HG) (Feb 2023) (Coursera)
+- [Programming for Everybody (Getting Started with Python 🐍](https://www.coursera.org/account/accomplishments/certificate/M8QAK9QRTU96) (Feb 2023) (Coursera)
+- [Python Data Structures 🐍](https://www.coursera.org/account/accomplishments/certificate/GP2VWV7SL9HG) (Feb 2023) (Coursera)
 - [Learning Data Visualization](https://www.linkedin.com/learning/certificates/8c669ce6099c0e0f386e1286557c44cff3026fa4cf47b0e0092ec936b8c1690c) (Mar 2023) (LinkedIn)
 - [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/certificate/LME6QGQ6MXG3)(Mar 2023) (Coursera)
 - [Hands-On Introduction: SQL](https://www.linkedin.com/learning/certificates/5983e5aed450f2341b0e12a4a690013e33d378ad97cbd971830d02f61e750c29) (Mar 2023) (LinkeIn)
