@@ -103,6 +103,11 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 
 **Description:** I used Tableau to develop an intelligent HR Analytics Dashboard, leveraging HR data to reveal useful insights. The dashboard captures crucial elements of staff dynamics through data cleansing, analysis, and display. It reveals attrition rates, business travel patterns, demographics, and more, allowing for educated judgments. The dashboard displays attrition across segments, age groupings, genders, and departments. It also addresses employee happiness, education, work positions, and other topics. We can use this technology to improve employee happiness, retention, and productivity by applying practical data-driven insights.
 
+### Data Analyst 30-days Challenge
+
+**Code:**[`Data Analyst 30-days Challenge`](https://github.com/ymurikinati/Yoga_Data_Analyst_Challenge_30_days)
+
+**Description:** The 30-Day GitHub Challenge is a self-paced coding challenge that encourages me to work on coding projects, collaborate with fellow developers, and contribute to open-source projects. Over the course of 30 days, I will take on various coding tasks and challenges, enhancing your programming skills and gaining valuable experience.
 
 ## Certificates
 
