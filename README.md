@@ -89,19 +89,19 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 
 **Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/HR-Analytics-Dashboard)
 
-**Description:**In this project, I've successfully crafted an HR Analytics Dashboard that offers a comprehensive overview of key employee insights. It covers essential aspects such as attrition rates, business travel trends, employee demographics, and more. The process involved data cleaning, processing, analysis, and visualization, culminating in an interactive dashboard with filtering capabilities. The dashboard presents Month-to-Date, Quarter-to-Date, and Year-to-Date employee insights, providing valuable information on various categories like age, gender, job roles, and satisfaction levels. This tool empowers us to make informed decisions to enhance employee satisfaction, retention, and overall productivity by leveraging insightful data-driven observations.
+**Description:** In this project, I've successfully crafted an HR Analytics Dashboard that offers a comprehensive overview of key employee insights. It covers essential aspects such as attrition rates, business travel trends, employee demographics, and more. The process involved data cleaning, processing, analysis, and visualization, culminating in an interactive dashboard with filtering capabilities. The dashboard presents Month-to-Date, Quarter-to-Date, and Year-to-Date employee insights, providing valuable information on various categories like age, gender, job roles, and satisfaction levels. This tool empowers us to make informed decisions to enhance employee satisfaction, retention, and overall productivity by leveraging insightful data-driven observations.
 
 ### Road-Accident-Dashboard 🚦📊-Using-Excel
 
 **Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/Road-Accident-Dashboard-Using-Excel)
 
-**Description:**I've created an encompassing Excel dashboard that analyzes road accident data for 2021 and 2022. It highlights key indicators like casualties and accidents, comparing YoY growth. The dashboard dissects casualties by severity, vehicle type, and location, offering valuable insights. With user-friendly excel features, stakeholders can interact with visualized data for informed decision-making and road safety enhancements.
+**Description:** I've created an encompassing Excel dashboard that analyzes road accident data for 2021 and 2022. It highlights key indicators like casualties and accidents, comparing YoY growth. The dashboard dissects casualties by severity, vehicle type, and location, offering valuable insights. With user-friendly excel features, stakeholders can interact with visualized data for informed decision-making and road safety enhancements.
 
 ### HR-ANALYTICS-DASHBOARD-using-Tableau 
 
 **Code:**[`HR DATA ANALYTICS.pbix`](https://github.com/ymurikinati/HR-ANALYTICS-DASHBOARD-using-Tableau)
 
-**Description:**I used Tableau to develop an intelligent HR Analytics Dashboard, leveraging HR data to reveal useful insights. The dashboard captures crucial elements of staff dynamics through data cleansing, analysis, and display. It reveals attrition rates, business travel patterns, demographics, and more, allowing for educated judgments. The dashboard displays attrition across segments, age groupings, genders, and departments. It also addresses employee happiness, education, work positions, and other topics. We can use this technology to improve employee happiness, retention, and productivity by applying practical data-driven insights.
+**Description:** I used Tableau to develop an intelligent HR Analytics Dashboard, leveraging HR data to reveal useful insights. The dashboard captures crucial elements of staff dynamics through data cleansing, analysis, and display. It reveals attrition rates, business travel patterns, demographics, and more, allowing for educated judgments. The dashboard displays attrition across segments, age groupings, genders, and departments. It also addresses employee happiness, education, work positions, and other topics. We can use this technology to improve employee happiness, retention, and productivity by applying practical data-driven insights.
 
 
 ## Certificates
