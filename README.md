@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://github.com/ymurikinati](https://github.com/ymurikinati)
 - 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau and Machine Learning**
 - 📄 Know about my experiences [https://www.linkedin.com/in/yogananda-reddy-murikinati/](https://www.linkedin.com/in/yogananda-reddy-murikinati/)
-- 📑 Resume [PDF](https://drive.google.com/file/d/1AqHmHi-SUXEUprpX6Cso9eXtgWKlWoeN/view?usp=sharing)
+- 📑 Resume [PDF](https://docs.google.com/document/d/1snUrllW1-FeiP4IkquYiWNaLiGfvybY4/edit)
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
