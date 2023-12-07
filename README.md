@@ -109,6 +109,12 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 
 **Description:** The 30-Day GitHub Challenge is a self-paced coding challenge that encourages me to work on coding projects, collaborate with fellow developers, and contribute to open-source projects. Over the course of 30 days, I will take on various coding tasks and challenges, enhancing your programming skills and gaining valuable experience.
 
+### Pizza Sales Dashboard
+
+**Code:** [`Pizza Sales Dashboard`](https://github.com/ymurikinati/Yoga_Data_Analyst_Challenge_30_days)
+
+**Description:** 
+
 ## Certificates
 
 - [Programming for Everybody (Getting Started with Python 🐍](https://www.coursera.org/account/accomplishments/certificate/M8QAK9QRTU96) (Feb 2023) (Coursera)
