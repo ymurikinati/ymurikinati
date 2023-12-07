@@ -111,9 +111,10 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 
 ### Pizza Sales Dashboard
 
-**Code:** [`Pizza Sales Dashboard`](https://github.com/ymurikinati/Yoga_Data_Analyst_Challenge_30_days)
+**Code:** [`Pizza Sales Dashboard`](https://github.com/ymurikinati/Pizza-Sales-Dashboard)
 
-**Description:** 
+**Description:** The Pizza Sales Project, the culmination of a Data Visualization Course, offers a comprehensive analysis of pizza sales data. This project includes a detailed dashboard, utilizing CSV and SQL Server for analysis, and a dataset with 12 columns and 48,621 rows capturing transactional details. The dashboard serves various stakeholders, providing insights into revenue, trends, and customer preferences. Key metrics, visualizations, and pre-processing steps enhance the user experience. Explore the pizza industry's dynamics through data-driven decision-making.
+
 
 ## Certificates
 
