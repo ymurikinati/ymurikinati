@@ -131,4 +131,5 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 - [Google Data Analytics Certificate](https://www.credly.com/badges/2800df18-f839-4c14-bf66-898544bc92fb/linked_in_profile) (Jun 2023) (Google)
 - [ Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-92737c2c-e8e9-42d3-9ab2-7658615b14a5/) (Jun 2023) (Udemy)
 - [Python for Data Science](https://www.credly.com/badges/8e977bb6-48be-40b5-af45-8309e940c4ad/linked_in_profile) (Jul 2023) (IBM)
+- [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/verify/KE8Q947XFLAP)
 
