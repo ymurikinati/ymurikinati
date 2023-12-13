@@ -60,6 +60,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=Tableau&logoColor=orange" />
   <img src="https://img.shields.io/badge/Machine Learning-3776AB?style=for-the-badge&logo=Machine Learning&logoColor=orange" />
   <img src="https://img.shields.io/badge/Cyber Security-3776AB?style=for-the-badge&logo=Cyber Security&logoColor=orange" />
+ <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=orange" />
 </div>
 
 <h2 align="center"> My Projects 📚<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
