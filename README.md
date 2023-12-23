@@ -61,7 +61,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Machine Learning-3776AB?style=for-the-badge&logo=Machine Learning&logoColor=orange" />
   <img src="https://img.shields.io/badge/Cyber Security-3776AB?style=for-the-badge&logo=Cyber Security&logoColor=orange" />
  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=orange" />
+      <p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+      <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+                   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+      </p>
 </div>
+
+
+
 
 <h2 align="center"> My Projects 📚<img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -132,4 +139,7 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 - [ Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-92737c2c-e8e9-42d3-9ab2-7658615b14a5/) (Jun 2023) (Udemy)
 - [Python for Data Science](https://www.credly.com/badges/8e977bb6-48be-40b5-af45-8309e940c4ad/linked_in_profile) (Jul 2023) (IBM)
 - [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/verify/KE8Q947XFLAP)
+
+
+
 
