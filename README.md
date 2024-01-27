@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💻 I am currently Masters Student at a Arizona State University.
 - 👨‍💻 All of my projects are available at [https://github.com/ymurikinati](https://github.com/ymurikinati)
-- 💬 Ask me about **Python, SQL, Excel, Power BI, Tableau and Machine Learning**
+- 💬 Ask me about **Python, R SQL, Excel, Power BI, Tableau and Machine Learning**
 - 📄 Know about my experiences [https://www.linkedin.com/in/yogananda-reddy-murikinati/](https://www.linkedin.com/in/yogananda-reddy-murikinati/)
 - 📑 Resume [PDF](https://docs.google.com/document/d/1snUrllW1-FeiP4IkquYiWNaLiGfvybY4/edit)
 
