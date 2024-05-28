@@ -117,6 +117,13 @@ Employing the dynamic capabilities of Power BI, I've created an interactive and 
 
 **Description:** The 30-Day GitHub Challenge is a self-paced coding challenge that encourages me to work on coding projects, collaborate with fellow developers, and contribute to open-source projects. Over the course of 30 days, I will take on various coding tasks and challenges, enhancing your programming skills and gaining valuable experience.
 
+
+### A Comparative Analysis of Advertising in the 2020 Presidential Elections & Phoenix Mayoral Elections using Natural Language Processing
+
+**Code: [`A Comparative Analysis of Advertising in the 2020 Presidential Elections & Phoenix Mayoral Elections using Na`](https://github.com/ymurikinati/Pizza-Sales-Dashboard)
+
+**Description:** In this research project, the focus is on analyzing political advertisements used in the 2023 Phoenix mayoral election, with a specific emphasis on the application of political microtargeting techniques, comparing it to the 2020 US presidential campaign. The study uses natural language processing techniques and data from the Facebook Ad library API to explore how campaigns employ microtargeting on platforms like Instagram and Facebook. The primary question addressed is the extent to which microtargeting is employed in local elections, particularly in delivering potentially toxic campaign messages. The research underscores the significance of understanding these dynamics for voters and utilizes Support Vector Machine (SVM) and Recurrent Neural Network (RNN) models for analysis. Ultimately, the study aims to provide insights into the impact of microtargeted advertising on voter behavior in city elections.
+
 ### Pizza Sales Dashboard
 
 **Code:** [`Pizza Sales Dashboard`](https://github.com/ymurikinati/Pizza-Sales-Dashboard)
