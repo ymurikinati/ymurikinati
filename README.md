@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 I am currently Masters Student at a Arizona State University.
+- 💻 I have completed a Master's degree in Information Technology (IT) at Arizona State Universit.
 - 👨‍💻 All of my projects are available at [https://github.com/ymurikinati](https://github.com/ymurikinati)
 - 💬 Ask me about **Python, R SQL, Excel, Power BI, Tableau and Machine Learning**
 - 📄 Know about my experiences [https://www.linkedin.com/in/yogananda-reddy-murikinati/](https://www.linkedin.com/in/yogananda-reddy-murikinati/)
